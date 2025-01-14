@@ -1,0 +1,3 @@
+/home/gss/code-c++/test/testmudol/build/CMakeFiles/server.dir
+/home/gss/code-c++/test/testmudol/build/CMakeFiles/edit_cache.dir
+/home/gss/code-c++/test/testmudol/build/CMakeFiles/rebuild_cache.dir
